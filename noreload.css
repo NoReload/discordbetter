@@ -7486,6 +7486,9 @@ textarea::-webkit-scrollbar {
 [aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls=my-account-tab].item-PXvHYJ:before {
     background-image: url(https://clearvision.gitlab.io/icons/person.svg);
 }
+[aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls=user-profile-tab].item-PXvHYJ:before {
+    background-image: url(https://clearvision.gitlab.io/icons/person.svg);
+}
 [aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls="privacy-&-safety-tab"].item-PXvHYJ:before {
     background-image: url(https://clearvision.gitlab.io/icons/security.svg);
 }
