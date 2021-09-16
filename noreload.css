@@ -8468,6 +8468,9 @@ textarea::-webkit-scrollbar {
 .sidebar-CFHs9e .bd-settings-tab.item-PXvHYJ:before {
     background-image: url(https://clearvision.gitlab.io/icons/betterdiscord.svg);
 }
+.sidebar-CFHs9e .bd-emotes-tab.item-PXvHYJ:before {
+    background-image: url(https://raw.githubusercontent.com/NoReload/discordbetter/3a1a26abcbd8d704e246ddc4c611577bd071dba4/add_reaction_white_24dp.svg);
+}
 .sidebar-CFHs9e .bd-customcss-tab.item-PXvHYJ:before {
     background-image: url(https://clearvision.gitlab.io/icons/code_braces.svg);
 }
