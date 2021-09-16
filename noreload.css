@@ -7513,6 +7513,9 @@ textarea::-webkit-scrollbar {
 [aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls=appearance-tab].item-PXvHYJ:before {
     background-image: url(https://clearvision.gitlab.io/icons/camera.svg);
 }
+[aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls=accessibility-tab].item-PXvHYJ:before {
+    background-image: url(https://noreload.github.io/discordbetter/bolt_white_24dp.svg);
+}
 [aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls="voice-&-video-tab"].item-PXvHYJ:before {
     background-image: url(https://clearvision.gitlab.io/icons/mic.svg);
 }
