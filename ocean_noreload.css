@@ -358,8 +358,6 @@ button[aria-label="Send a gift"] {
     top: -4px;
     width: fit-content;
     font-size: 14px;
-    font-weight: 600;
-    font-family: "Lato";
     color: var(--ocean-color1);
 }
 .wordmark-2iDDfm > svg {
