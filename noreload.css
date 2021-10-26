@@ -325,6 +325,7 @@ textarea,
     font-size: 10px;
     order: 1;
 }
+
 .typeMacOS-3EmCyP:before {
     content: "NoReload";
     color: var(--main-color);
