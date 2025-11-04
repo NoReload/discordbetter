@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="bc06dac0-1238-4b1d-a033-705ca29f9efb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +29,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "fisiere",
+    "git-widget-placeholder": "sandbox",
     "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "project.propVCSSupport.Mappings",
     "vue.rearranger.settings.migration": "true"
@@ -48,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762288944136</updated>
-      <workItem from="1762288945408" duration="340000" />
+      <workItem from="1762288945408" duration="967000" />
     </task>
     <servers />
   </component>
